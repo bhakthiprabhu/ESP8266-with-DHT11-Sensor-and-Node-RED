@@ -3,7 +3,7 @@
 #define dht_apin 2 // Pin sensor is connected to
 DHT dht(dht_apin,DHT11);
 const char *wifissid = "slpg5";
-const char *wifipass = "9848038171@5";
+const char *wifipass = "984@5";
 void setup() 
  {
    // put your setup code here, to run once:
