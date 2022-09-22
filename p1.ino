@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
 const char *wifissid = "slpg5";
-const char *wifipass = "9848038171@5";
+const char *wifipass = "98@5";
 void setup() 
  {
    // put your setup code here, to run once:
